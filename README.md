@@ -28,4 +28,4 @@ Streamlit
 
 🚀 Run the App:
 
-streamlit run streamlit_app.py
+streamlit run app.py
