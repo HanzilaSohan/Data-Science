@@ -1,4 +1,4 @@
-# codealpha_tasks
+# Music_Recommendation_System
 Lyrics-Based Music Recommendation System (Streamlit App)
 
 This project is a machine learning-powered web application built with Streamlit, designed to recommend songs based on lyrical similarity. It uses TF-IDF vectorization and cosine similarity, core NLP techniques in ML, to identify and suggest songs with similar lyrical content from a dataset of 10,000 Spotify tracks.
